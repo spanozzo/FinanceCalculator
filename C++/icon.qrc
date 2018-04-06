@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icone/add.png</file>
+        <file>icone/remove_this.png</file>
+        <file>icone/reset.png</file>
+        <file>icone/checked.png</file>
+        <file>icone/not_available.png</file>
+        <file>icone/notChecked.png</file>
+    </qresource>
+</RCC>
